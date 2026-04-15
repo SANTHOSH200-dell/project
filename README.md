@@ -4,7 +4,7 @@ A simple menu-driven calculator built using Python that allows users to perform 
 
 ## 🚀 Features
 - User-friendly menu interface
-- Supports 7 arithmetic operations
+- Supports 4 arithmetic operations
 - Handles division by zero errors
 - Beginner-friendly code structure
 
@@ -14,7 +14,7 @@ A simple menu-driven calculator built using Python that allows users to perform 
 ## 📂 How to Run
 1. Clone the repository
 2. Run the file:
-   python calculator.py
+   Menu-Based Arithmetic Program.py
 
 ## 📸 Output
 enter a value1:22
